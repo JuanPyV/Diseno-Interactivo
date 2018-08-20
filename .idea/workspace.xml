@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6447a648-9f1d-43f9-ac4c-379595eed28e" name="Default" comment="Clase 1">
+    <list default="true" id="6447a648-9f1d-43f9-ac4c-379595eed28e" name="Default" comment="prueba">
+      <change afterPath="$PROJECT_DIR$/Tarea1/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1/js/materialize.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase2/Clase2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Clase2/Clase2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +20,7 @@
     <session id="-904688304">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -24,35 +30,53 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="css" value="1" />
+          <entry key="html" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="110" />
-          <entry key="txt" value="7" />
+          <entry key="css" value="9" />
+          <entry key="html" value="137" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="110" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="137" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Clase1/Clase1.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tarea1/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1602">
-              <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+            <state>
+              <caret selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tarea1/css/materialize.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clase2/Clase2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -75,6 +99,9 @@
         <option value="$PROJECT_DIR$/Prueb.html" />
         <option value="$USER_HOME$/Downloads/source.html" />
         <option value="$PROJECT_DIR$/Clase1/Clase1.html" />
+        <option value="$PROJECT_DIR$/Clase2/Clase2.html" />
+        <option value="$PROJECT_DIR$/Tarea1/css/materialize.css" />
+        <option value="$PROJECT_DIR$/Tarea1/main.html" />
       </list>
     </option>
   </component>
@@ -111,6 +138,24 @@
               <item name="Diseño_Interactivo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Diseño_Interactivo" type="462c0819:PsiDirectoryNode" />
               <item name="Clase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diseño_Interactivo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diseño_Interactivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diseño_Interactivo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diseño_Interactivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diseño_Interactivo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diseño_Interactivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea1" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="materialize.css" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +209,7 @@
       <workItem from="1533872898916" duration="154000" />
       <workItem from="1533873097648" duration="1000" />
       <workItem from="1534248411279" duration="3843000" />
-      <workItem from="1534697779176" duration="3457000" />
+      <workItem from="1534697779176" duration="5632000" />
     </task>
     <task id="LOCAL-00001" summary="Clase 1">
       <created>1534248785085</created>
@@ -180,15 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534250149257</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prueba">
+      <created>1534704848459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534704848459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8716000" />
+    <option name="totallyTimeSpent" value="10891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -220,7 +271,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clase 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase 1" />
+    <MESSAGE value="prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Prueb.html" />
@@ -237,6 +289,23 @@
           <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clase2/Clase2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

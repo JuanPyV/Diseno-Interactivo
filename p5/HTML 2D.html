@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+<script type="text/javascript" src="p5.collide2d.js"></script>
+
+</script>
+<script>
+
+var col = 0;
+var y = 0;
+var x;
+var yElip = 460;
+var xRect = 5;
+var yRect = 460;
+var hit = false;
+var c = 0;
+
+function setup(){
+    createCanvas(500,500)
+    background(23,56,180)
+    x = random(500)
+
+  }
+
+function draw(){
+    background(col,120, 120)
+    ellipse(x,y,35,35)
+    ellipse(300,yElip,35,35)
+    rect(xRect, yRect, 200, 20, 20)
+    col++;
+    yElip--;
+
+    hit = collideRectCircle(xRect,yRect,190,20,x,y,35);
+	  print("choco " + hit);
+
+    if (hit == false){
+      y = y + 2;
+    }
+
+     if (hit == true) {
+      y = y - 200;
+      x = random(500)
+     }
+  }
+function mousePressed(){
+  y = 0;
+  yElip =460;
+}
+
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) {
+    xRect = xRect - 30;
+  } else if (keyCode === RIGHT_ARROW) {
+    xRect = xRect + 30;
+  }
+}
+
+
+
+
+</script>
+
+
+</head>
+<body>
+
+</body>
+</html>

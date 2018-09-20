@@ -75,8 +75,7 @@ body {
 }
 
 .contenedor .box .content h3 {
-    margin: 0 0 10px;
-    ;
+    margin: 0 0 10px;;
     padding: 0;
     color: #fff;
     font-size: 20px;
@@ -139,4 +138,63 @@ body {
 
 #myBtn:hover {
     background-color: #555;
+}
+
+body {
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #03a9f4;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    color: #d1d1d1;
+}
+
+ul.topnav li {
+    float: left;
+}
+
+ul.topnav li.right.last {
+    float: right;
+    padding-right: 50px;
+}
+
+ul.topnav li.right {
+    float: right;
+}
+
+@media screen and (max-width: 400px){
+    ul.topnav li.right,
+    ul.topnav li {float: none;}
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #d1d1d1;
+}
+
+li a:hover {
+    color: #ffffff;
+}
+
+.active {
+    background-color: #03a9f4;
+    color: #d1d1d1;
+    padding-left: 50px;
+}
+.active:hover{
+    color: #ffffff;
 }

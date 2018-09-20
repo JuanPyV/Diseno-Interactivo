@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6447a648-9f1d-43f9-ac4c-379595eed28e" name="Default" comment="Prueba 3 Emmet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/css/materialize.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/css/materialize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/ref.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/ref.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5/HTML 2D.html" beforeDir="false" afterPath="$PROJECT_DIR$/p5/HTML 2D.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,31 +63,39 @@
     <session id="-1237394411">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="css" value="4" />
+          <entry key="html" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="19" />
+          <entry key="css" value="246" />
+          <entry key="html" value="461" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="19" />
+          <entry key="CSS" value="246" />
+          <entry key="HTML" value="461" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
@@ -88,11 +103,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pruebas/Pruebas 3/Emmet.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proyecto/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="111">
+              <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="203" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proyecto/ref.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proyecto/solution.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="122" column="54" lean-forward="true" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Proyecto/team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proyecto/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proyecto/css/materialize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="5028" column="22" selection-start-line="5028" selection-start-column="22" selection-end-line="5028" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -105,6 +168,14 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>light-blue</find>
+      <find>orange</find>
+      <find>tab</find>
+      <find>tabs</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,6 +192,13 @@
         <option value="$PROJECT_DIR$/Practica1/Examen1" />
         <option value="$PROJECT_DIR$/Practica1/Examen1.html" />
         <option value="$PROJECT_DIR$/Pruebas/Pruebas 3/Emmet.html" />
+        <option value="$PROJECT_DIR$/p5/HTML 2D.html" />
+        <option value="$PROJECT_DIR$/Proyecto/css/materialize.css" />
+        <option value="$PROJECT_DIR$/Proyecto/css/style.css" />
+        <option value="$PROJECT_DIR$/Proyecto/index.html" />
+        <option value="$PROJECT_DIR$/Proyecto/ref.html" />
+        <option value="$PROJECT_DIR$/Proyecto/solution.html" />
+        <option value="$PROJECT_DIR$/Proyecto/team.html" />
       </list>
     </option>
   </component>
@@ -140,6 +218,32 @@
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Data flowJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,7 +259,20 @@
             <path>
               <item name="Diseno-Interactivo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Diseno-Interactivo" type="462c0819:PsiDirectoryNode" />
-              <item name="Pruebas" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diseno-Interactivo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diseno-Interactivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diseno-Interactivo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diseno-Interactivo" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="materialize.css" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -168,7 +285,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -223,7 +341,15 @@
       <workItem from="1536030382204" duration="141000" />
       <workItem from="1536062154136" duration="1213000" />
       <workItem from="1536895335207" duration="206000" />
-      <workItem from="1536895731943" duration="630000" />
+      <workItem from="1536895731943" duration="1213000" />
+      <workItem from="1536896964598" duration="17000" />
+      <workItem from="1536926412682" duration="571000" />
+      <workItem from="1536926997988" duration="147000" />
+      <workItem from="1536927158649" duration="2229000" />
+      <workItem from="1537234352093" duration="391000" />
+      <workItem from="1537234755620" duration="89000" />
+      <workItem from="1537272841313" duration="2032000" />
+      <workItem from="1537402306552" duration="7920000" />
     </task>
     <task id="LOCAL-00001" summary="Clase 1">
       <created>1534248785085</created>
@@ -253,30 +379,37 @@
       <option name="project" value="LOCAL" />
       <updated>1536895865805</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Prueba 3 Emmet">
+      <created>1536896374632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536896374632</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14436000" />
+    <option name="totallyTimeSpent" value="28415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20811099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22678763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.27217126" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.27193934" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.10942578" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -352,17 +485,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/starter-template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/p5/HTML 2D.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="310">
+          <caret line="10" column="18" selection-end-line="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pruebas/Pruebas 3/Emmet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="5028" column="22" selection-start-line="5028" selection-start-column="22" selection-end-line="5028" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="203" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/ref.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="122" column="54" lean-forward="true" selection-start-line="122" selection-start-column="54" selection-end-line="122" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proyecto/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
         </state>
       </provider>
     </entry>

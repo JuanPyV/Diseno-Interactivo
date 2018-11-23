@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alarm Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="alarma">
+    <input  class="alarmInput" id="alarmTime" type="datetime-local">
+    <button class="setAlarm" id="alarmButton" onclick="setAlarm(this);">Set Alarm</button>
+    <p id="snoozeMsg" style="display: none">Alarm snooze for 5 minutes</p>
+</div>
+<div class="alarma" id="alarmOptions" style="display: none;">
+    <button class="buttonAlarm" onclick="snooze();">Snooze 5 minutes</button>
+    <button class="buttonAlarm" onclick="stopAlarm();">Stop Alarm</button>
+
+</div>
+
+<script src="alarmScript.js"></script>
+</body>
+</html>

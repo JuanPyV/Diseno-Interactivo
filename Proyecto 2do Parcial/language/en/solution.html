@@ -30,40 +30,38 @@
 
     <!-- Custom styles for this template -->
     <link href="../../css/scrolling-nav.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/style.css">
 
 </head>
 
 <body id="page-top">
-<a href="https://icons8.com">Icon pack by Icons8</a>
+<a href="https://icons8.com"></a>
 
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Solution</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
-            </ul>
-            <div class="dropdown">
-                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2"
-                        data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false"> Solution
-                </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                    <a class="dropdown-item" href="../../index.html">Vision</a>
-                    <a class="dropdown-item" href="info.html">Information</a>
-                    <a class="dropdown-item" href="risk.html">Risk</a>
-                    <a class="dropdown-item" href="proposal.html">Proposal</a>
-                    <a class="dropdown-item" href="team.html">Team</a>
-                    <a class="dropdown-item" href="ux.html">UX</a>
-                    <a class="dropdown-item" href="video.html">Video</a>
-                </div>
-            </div>
-        </div>
+<div class="toggle">
+    <i class="menu"><img src="https://img.icons8.com/material-rounded/40/cccccc/menu.png"></i>
+    <img src="../../images/beer_logo.png"  align="left">
+</div>
 
+<nav>
+    <div class="1">
+        <a href="../../index.html" class="navLinks">Vision</a>
+    </div>
+    <div class="2">
+        <a href="info.html" class="navLinks">Information</a>
+    </div>
+    <div class="3">
+        <a href="risk.html" class="navLinks">Risk</a>
+    </div>
+    <div class="logo"></div>
+    <div class="4">
+        <a href="blog.html" class="navLinks">Blog</a>
+    </div>
+    <div class="5">
+        <a href="video.html" class="navLinks">Video</a>
+    </div>
+    <div class="6">
+        <a href="alarm.html" class="navLinks">Alarm</a>
     </div>
 </nav>
 
@@ -78,7 +76,7 @@
 
                 <h3 class="text-center"><img src="https://png.icons8.com/office/30/000000/idea.png"><br>
                     “Salvia divinorum”</h3><br><br>
-                <p class="lead">One of the important and interesting solutions I found, as a way of helping with
+                <p class="lead">One of the important and interesting solutions we found, as a way of helping with
                     alcoholism, was the use of a species of plant called “Salvia divinorum”, used in a ritual that
                     should help with cases of abuse and addiction of pretty much everything, so using it to cure this
                     problem could work. They believe that the feminine entity that inhabits the plant heals the body,
@@ -101,25 +99,48 @@
     </div>
 </section>
 
+<!-- go up -->
+<a href="#" id="scroll" style="display: none;"><span></span></a>
+
 <!-- Footer -->
-<footer class="py-5 bg-dark">
+<footer class="py-5 bg-dark pie">
     <style> a.ex3 {
         color: white;
+        font-size: 20px;
     }
-
     a.ex3:hover, a.ex3:active {
         color: gray;
     } </style>
+    <div class="fixed-bottom bg-dark text-center pieFixed" id="footerFix" style="display: none;">
+        <div class="pieFixedContent">
+            Speak with a treatment specialist <b style="font-size: 110%">24/7</b>
+            <button class="helpButton"><a href="tel:+018002169231" style="color: white"> (01-800) 2169-231</a></button>
+            - or -
+            <button class="helpButton">(01-55) 5264-2406</button>
+        </div>
+        <div class="pieFixedContentResponsive text-left">
+            Call:
+            <button class="helpButton"><a href="tel:+018002169231" style="color: white"> (01-800) 2169-231</a></button>
+        </div>
+    </div>
     <div class="align-middle container">
         <div class="row">
-            <div class="col col-lg-5">
-                <p class="m-0 text-left text-white">Copyright &copy; 2018</p>
+            <div class="col col-lg-4">
+                <p class="m-0 text-left text-white" style="font-size: 20px">Copyright &copy; 2018</p>
+                <br>
+                <a href="doc.html" class="ex3">Documentation</a>
                 <br>
                 <a href="ref.html" class="ex3">References</a>
+                <br>
+                <a href="team.html" class="ex3">Team</a>
             </div>
-            <div class="col col-lg-5">
-                <p class="m-0 text-right text-white">🌐 Languages </p>
-                <li class="m-0 text-right"><a href="../es/solution.html" class="ex3">Spanish</a></li>
+            <div class="col col-lg-4">
+                <br>
+                <img src="../../images/nthw.fw.png" style="margin-left: 50px" width="57" height="85" alt="Responsive image">
+            </div>
+            <div class="col col-lg-4">
+                <p class="translateText">Translate:</p>
+                <div class="translate" id="google_translate_element"></div>
             </div>
         </div>
     </div>
@@ -133,8 +154,25 @@
 <!-- Plugin JavaScript -->
 <script src="../../vendor/jquery-easing/jquery.easing.min.js"></script>
 
-<!-- Custom JavaScript for this theme -->
-<script src="../../js/scrolling-nav.js"></script>
+<!-- back top button -->
+<script src="../../js/backTop.js"></script>
+
+<!-- footer -->
+<script src="../../js/footer.js"></script>
+
+<!-----menu responsivo----->
+<script src="../../js/menuResponsivo.js"></script>
+
+<!-----Traductor----->
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
+
 
 </body>
 

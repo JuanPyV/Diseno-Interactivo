@@ -163,7 +163,7 @@ nav {
 }
 a.ex2 {
     color: black;
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 }
 
 a.ex2:hover, a.ex2:active {
@@ -315,10 +315,10 @@ a.ex2:hover, a.ex2:active {
 
 .text-centerInfo {
     height: 900px;
-    background-image: url("../images/18337-NRJ2N7.png");
+    background-image: url("../images/waterWallInfo.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 500px;
+    background-size: 400px;
 }
 .textoDerBox{
     float: right;
@@ -430,6 +430,16 @@ a.ex2:hover, a.ex2:active {
     margin-top: 15px;
     font-size: 20px;
 }
+.pieFixedDoc{
+    width: 10%;
+    height: 250px;
+}
+.pieFixedContentDoc a{
+    display: block;
+    color: #fff;
+    margin-top: 25px;
+    font-size: 20px;
+}
 .helpButton{
     position: relative;
     width: 200px;
@@ -448,14 +458,13 @@ a.ex2:hover, a.ex2:active {
     cursor: pointer;
     -webkit-box-shadow: inset 0 -5px #db4334;
     box-shadow: inset 0 -5px #db4334;
-
 }
 .pieFixedContentResponsive{
     display: none;
     color: #fff;
     margin-top: 15px;
     font-size: 20px;
-    margin-left: 40px;
+    margin-left: 20px;
 }
 
 /* ------blog---------- */
@@ -652,6 +661,13 @@ a.ex2:hover, a.ex2:active {
     }
     .pieFixedContentResponsive{
         display: block;
+    }
+    
+    .pieFixedDoc{
+        height: 0;
+    }
+    .pieFixedContentDoc{
+        display: none;
     }
 
     .blogText{
